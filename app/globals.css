@@ -15,5 +15,6 @@ html,
 body {
   /*height: 100%;*/
   box-sizing: border-box;
+  line-height: 1.5;
 
 }

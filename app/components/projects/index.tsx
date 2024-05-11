@@ -39,7 +39,7 @@ const projects: ProjectsType[] = [
 ];
 const Projects = () => {
   const [modal, setModal] = useState<ModalType>({ active: false, index: 0 });
-  console.log({ modal });
+  // console.log({ modal });
   return (
     <div className={styles.projects}>
       <div className={styles.body} id={"project"}>
